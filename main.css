@@ -1,0 +1,33 @@
+body {
+    background-color: gainsboro;
+} 
+
+.css-class h4 {
+    color: orangered;
+} 
+
+.css-class li {color: darkcyan;} 
+
+#number-one {
+    color: blueviolet;
+} 
+
+.first-class {font-size: 15px;} 
+
+.padded-container {
+    border: 2px solid red;
+    margin: 50px;
+    padding: 20px 20px 20px 20px;
+    background-color: gray;
+}
+
+p {
+    border: 2px solid blue;
+    background-color: lightsalmon;
+} 
+
+.border-style li {
+    border-style: inset;
+} 
+
+.width-height h3 { width: 20%; height: 50px;}
